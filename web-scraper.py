@@ -6,7 +6,7 @@ from collections import deque
 import re
 import csv
 import validators
-from googlesearch import search
+from googlesearch.googlesearch import GoogleSearch
 import pandas as pd
 
 dict = {}
