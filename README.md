@@ -1,7 +1,7 @@
 # Web-Scraper 🌐
 Web scraping is the process of using bots to extract content and data from a website. This is a Web Scraper for Extracting data or content from website.
 
-## How Use / Install Email Scraper On Your Local Machine
+## How Use / Install Web Scraper On Your Local Machine
 
 First,  Clone repo using
 ```
@@ -23,7 +23,7 @@ Install Requirements using
 pip install -r requirements.txt
 ```
 
-Run email-scraper.py file using
+Run web-scraper.py file using
 ```
 python web-scraper.py
 ```
